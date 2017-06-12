@@ -4,6 +4,11 @@ To use an XBox controller with AirSim follow these steps:
 
 1. Connect XBox controller so it shows up in your PC Game Controllers:
 
+
+1.1 Here are missing some essential steps (like starting PX4) for step 2 to work out.
+I am stuck here so I do not exactly know what it takes.
+
+
 ![Gamecontrollers](images/game_controllers.png)
 
 2. Launch QGroundControl and you should see a new Joystick tab under stettings:
